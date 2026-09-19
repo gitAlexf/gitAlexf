@@ -1,6 +1,6 @@
 
 
-# Git Cheatsheet — VoltCycle Operations (BAS)
+# Git Cheatsheet — (BAS)
 
 Коротка шпаргалка з трьома основними сценаріями роботи з git для проекту в SAP Business Application Studio.
 
